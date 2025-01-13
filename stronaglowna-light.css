@@ -1,0 +1,12 @@
+body {
+    font-family: 'JetBrains Mono';
+    background-color: rgb(233, 233, 233);
+    color: #181A1B;
+    text-align: center;
+    margin: 8;
+    font-size: 13.3333px;
+}
+#clickableImage {
+    margin-top: 50px;
+}
+`

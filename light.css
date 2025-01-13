@@ -1,24 +1,10 @@
 body {
     font-family: 'JetBrains Mono';
-    background-color: #181A1B;
-    color: rgb(233, 233, 233);
+    background-color: rgb(233, 233, 233);
+    color: #181A1B;
     text-align: center;
     margin: 8;
     font-size: 13.3333px;
-/* jednolity kolor hiperłączy */
-a {
-    text-decoration: none;
-    color: rgb(233, 233, 233);
-}
-
-a:visited {
-    color: rgb(233, 233, 233);
-}
-a:hover {
-    color: rgb(233, 233, 233);
-}
-a:active {
-    color: rgb(233, 233, 233);
 }
 #title {
     text-align: center;
@@ -49,5 +35,4 @@ a:active {
 }
 #clickableImage {
     margin-top: 50px;
-}
 }

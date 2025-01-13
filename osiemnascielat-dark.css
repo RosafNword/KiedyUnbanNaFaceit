@@ -1,0 +1,38 @@
+body {
+    font-family: 'JetBrains Mono';
+    background-color: #181A1B;
+    color: rgb(233, 233, 233);
+    text-align: center;
+    margin: 8;
+    font-size: 13.3333px;
+}
+#title {
+    text-align: center;
+}
+#countdown {
+    font-size: 26px;
+    margin: 8px;
+}
+#days {
+    font-size: 26px;
+    margin: 8px;
+}
+#hours {
+    font-size: 26px;
+    margin: 8px;
+}
+#minutes {
+    font-size: 26px;
+    margin: 8px;
+}
+#seconds {
+    font-size: 26px;
+    margin: 8px;
+}
+#percent {
+    font-size: 26px;
+    margin: 8px;
+}
+#clickableImage {
+    margin-top: 50px;
+}
