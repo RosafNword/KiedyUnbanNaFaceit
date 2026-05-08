@@ -53,4 +53,3 @@ Ten projekt jest dostępny na licencji **MIT**. Szczegóły znajdziesz w sekcji 
 <div align="center">
   <sub>Strona stworzona z pasji do statystyk i czekania.</sub>
 </div>
-
