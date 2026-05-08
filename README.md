@@ -1,47 +1,56 @@
-# 🌟 rosaf.info
+# 🕒 Kiedy Unban Na Faceit?
 
-### 📖 Opis
-rosaf.info to strona, która podaje informacje o tym, za ile czasu będziesz miał 18 lat oraz kiedy kończy się mój ban na Faceit. 
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Made%20with-HTML%20%26%20JS-orange?style=for-the-badge" alt="Tech Stack">
+</div>
 
 ---
+
+### 📖 O projekcie
+
+**rosaf.info** to minimalistyczna, ale precyzyjna platforma stworzona do śledzenia dwóch kluczowych wydarzeń w życiu Rosafa. Projekt charakteryzuje się nowoczesnym, ciemnym interfejsem opartym na czcionce **JetBrains Mono**, zapewniającym doskonałą czytelność i "hackerski" klimat.
+
+### ✨ Główne Funkcje
+
+*   **🚫 Licznik Bana Faceit:** Precyzyjne odliczanie do momentu wolności na platformie Faceit (13 kwietnia 2026).
+*   **🎉 18-ste Urodziny:** Dynamiczny licznik wskazujący czas pozostały do wejścia w dorosłość.
+*   **🌓 Tryb Light/Dark:** Intuicyjne przełączanie między motywami kolorystycznymi.
+*   **📊 Statystyki Procentowe:** Wyświetlanie postępu czasu w milisekundach i procentach z dużą dokładnością.
 
 ### 🛠 Technologie
-Projekt został stworzony przy użyciu:
-- **HTML**
-- **CSS**
-- **JavaScript**
+
+Projekt został zbudowany z dbałością o prostotę i wydajność:
+
+| Technologia | Zastosowanie |
+| :--- | :--- |
+| **HTML5** | Struktura i semantyka strony |
+| **CSS3** | Stylowanie, tryby kolorystyczne, responsywność |
+| **JavaScript (ES6+)** | Logika liczników, manipulacja DOM |
+| **Google Fonts** | JetBrains Mono dla technicznego wyglądu |
 
 ---
 
-### ⚙️ Przykłady użycia
-Strona może być użyteczna, gdy ktoś chce sprawdzić za ile mam 18 lat, bądź kończy sie mój ban na Faceit
+### 🚀 Jak uruchomić lokalnie?
+
+1.  Sklonuj repozytorium:
+    ```bash
+    git clone https://github.com/RosafNword/KiedyUnbanNaFaceit.git
+    ```
+2.  Otwórz plik `stronaglowna-dark.html` w swojej ulubionej przeglądarce.
+3.  Gotowe! Możesz teraz śledzić sekundy do wolności.
 
 ---
 
-### 👤 Autorzy
-- **RosafNword** - ja
+### 👤 Autor
+*   **RosafNword** - *Główny deweloper i właściciel bana* 😅
 
 ### 📜 Licencja
-
-MIT License
-
-Copyright (c) 2025 RosafNword
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
-associated documentation files (the "Software"), to deal in the Software without restriction, 
-including without limitation the rights to use, copy, modify, merge, publish, distribute, 
-sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is 
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or 
-substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT 
-NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+Ten projekt jest dostępny na licencji **MIT**. Szczegóły znajdziesz w sekcji licencyjnej poniżej lub w pliku `LICENSE`.
 
 ---
+<div align="center">
+  <sub>Strona stworzona z pasji do statystyk i czekania.</sub>
+</div>
 
